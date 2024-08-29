@@ -1,0 +1,5 @@
+Contact_locator="//span[contains(text(),'GSOP - Dell - SIT - 2022')]"
+searchbar_locator="//div[@title='Search input textbox']"
+group_name="//header/div[2]/div[1]/div[1]/span[1]"
+msg1_details="//body/div[@id='app']/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[2]/div[3]/div[13]/div[1]/div[1]/div[1]/div[2]"
+msg1_content="//body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[2]/div[3]/div[13]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/span[1]"
